@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.summary     = 'WebKite strategy for OmniAuth'
   gem.licenses    = ['MIT']
 
-  gem.files = Dir["{lib}/**/*"] + ["Rakefile", "README.rdoc"]
+  gem.files = Dir["{lib}/**/*"] + ["Rakefile", "README.md"]
   gem.test_files = Dir["spec/*"]
   gem.require_paths = ["lib"]
 
